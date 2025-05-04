@@ -1,3 +1,17 @@
+10.0.0.1 - - [26/Apr/2025:10:30:01 -0400] "GET /admin HTTP/1.1" 200 1234
+10.0.0.1 - - [26/Apr/2025:10:30:10 -0400] "GET /.env HTTP/1.1" 200 1234
+10.0.0.1 - - [26/Apr/2025:10:30:15 -0400] "GET /.git HTTP/1.1" 200 1234
+10.0.0.1 - - [26/Apr/2025:10:30:20 -0400] "GET /config.php HTTP/1.1" 200 1234
+10.0.0.1 - - [26/Apr/2025:10:30:25 -0400] "GET /dashboard HTTP/1.1" 200 1234
+10.0.0.1 - - [26/Apr/2025:10:30:30 -0400] "GET /private HTTP/1.1" 200 1234
+10.0.0.1 - - [26/Apr/2025:10:30:35 -0400] "GET /secrets HTTP/1.1" 200 1234
+192.168.1.100 - - [26/Apr/2025:10:23:00 -0400] "GET /login HTTP/1.1" 200 1234
+192.168.1.100 - - [26/Apr/2025:10:23:10 -0400] "GET /login HTTP/1.1" 200 1234
+192.168.1.100 - - [26/Apr/2025:10:23:15 -0400] "GET /login HTTP/1.1" 200 1234
+192.168.1.100 - - [26/Apr/2025:10:23:20 -0400] "GET /login HTTP/1.1" 200 1234
+192.168.1.100 - - [26/Apr/2025:10:23:25 -0400] "GET /login HTTP/1.1" 200 1234
+192.168.1.100 - - [26/Apr/2025:10:23:30 -0400] "GET /login HTTP/1.1" 200 1234
+192.168.1.100 - - [26/Apr/2025:10:23:35 -0400] "GET /login HTTP/1.1" 200 1234
 83.149.9.216 - - [17/May/2015:10:05:03 +0000] "GET /presentations/logstash-monitorama-2013/images/kibana-search.png HTTP/1.1" 200 203023 "http://semicomplete.com/presentations/logstash-monitorama-2013/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.77 Safari/537.36"
 83.149.9.216 - - [17/May/2015:10:05:43 +0000] "GET /presentations/logstash-monitorama-2013/images/kibana-dashboard3.png HTTP/1.1" 200 171717 "http://semicomplete.com/presentations/logstash-monitorama-2013/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.77 Safari/537.36"
 83.149.9.216 - - [17/May/2015:10:05:47 +0000] "GET /presentations/logstash-monitorama-2013/plugin/highlight/highlight.js HTTP/1.1" 200 26185 "http://semicomplete.com/presentations/logstash-monitorama-2013/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.77 Safari/537.36"

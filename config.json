@@ -1,0 +1,11 @@
+{
+    "brute_force": {
+      "threshold": 5,
+      "window_seconds": 60
+    },
+    "path_scanning": {
+      "threshold": 7,
+      "window_seconds": 60
+    }
+  }
+  
